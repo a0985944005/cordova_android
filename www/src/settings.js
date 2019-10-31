@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],rawAssets:{assets:{}},assetTypes:[],launchScene:"db://assets/Scence/main.fire",scenes:[{url:"db://assets/Scence/main.fire",uuid:"ecUL4/r65PFYm/3byFzp57"}],packedAssets:{},md5AssetsMap:{},orientation:"",subpackages:{},uuids:[]};
